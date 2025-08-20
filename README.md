@@ -2,7 +2,6 @@
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-app-red)](#-run-the-streamlit-app)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 ## 📌 Context
 This project was carried out as part of the **Cassiopée program** at **Télécom SudParis**, under the supervision of **Prof. Nicolas Rougon**, in collaboration with **Gustavo Paulino** and **Mariana Meirelles**.

@@ -1,4 +1,4 @@
-# 🧠 Cassiopeia — 3D Brain Tumor Segmentation with Mamba
+# 🧠 MambaCare — 3D Brain Tumor Segmentation with Mamba
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-app-red)](#-run-the-streamlit-app)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]()

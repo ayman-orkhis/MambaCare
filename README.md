@@ -88,21 +88,6 @@ Open the local URL shown in the terminal (typically http://localhost:8501), uplo
   
 ---
 
-## 🏋️ Training (Optional)
-Training was conducted via **nnU-Net**:
-
-1. Organize BraTS2021 following `nnUNet_raw/`, run:
-   - `nnUNet_plan_and_preprocess`
-2. Train (2D/3D full-res as needed) with:
-   - `nnUNet_train`
-3. Evaluate:
-   - `nnUNet_evaluate_folder`
-4. Integrate custom trainers (SegMamba / UMamba / VM-Unet3D) for apples-to-apples comparison.
-
-> This repo focuses on **inference & demo**. For full training pipelines, adapt your nnU-Net setup to these architectures.
-
----
-
 ## 🧰 Tech Stack
 - **Python**, **PyTorch**, **MONAI**, **nnU-Net**
 - **Streamlit**, **NumPy**, **Pillow (PIL)**, **SimpleITK / nibabel**

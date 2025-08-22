@@ -1,0 +1,11 @@
+streamlit
+nibabel
+torch
+numpy
+SimpleITK
+pydicom
+Pillow
+matplotlib
+plotly
+scikit-image
+reportlab
